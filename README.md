@@ -21,35 +21,35 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 	
 <summary>Click to expand and View Screenshots!</summary></screenshots>
 	
-	Main Menu :
-	![MainMenu](screenshots/main_menu.png)
-	
-	Timer Menu:
-	![TimerMenu](screenshots/timer_interface.png)
-	
-	Level 01:
-	![Level01](screenshots/level1.png)
-	
-	Level 01 Portal cannot be accessed without key:
-	![Level01NoTransition](screenshots/no_transition_without_key.png)
-	
-	Level 01 Portal:
-	![Level01portal](screenshots/level1_portal.png)
-	
-	Level 02:
-	![Level02](screenshots/level2.png)
-	
-	Death screen:
-	![Dead](screenshots/dead.png)
-	
-	Level 02 Portal:
-	![Level02portal](screenshots/level2_portal.png)
-	
-	Level 03:
-	![Level03](screenshots/level3.png)
-	
-	End Screen:
-	![EndScreen](screenshots/end_screen.png)
+Main Menu :
+![MainMenu](screenshots/main_menu.png)
+
+Timer Menu:
+![TimerMenu](screenshots/timer_interface.png)
+
+Level 01:
+![Level01](screenshots/level1.png)
+
+Level 01 Portal cannot be accessed without key:
+![Level01NoTransition](screenshots/no_transition_without_key.png)
+
+Level 01 Portal:
+![Level01portal](screenshots/level1_portal.png)
+
+Level 02:
+![Level02](screenshots/level2.png)
+
+Death screen:
+![Dead](screenshots/dead.png)
+
+Level 02 Portal:
+![Level02portal](screenshots/level2_portal.png)
+
+Level 03:
+![Level03](screenshots/level3.png)
+
+End Screen:
+![EndScreen](screenshots/end_screen.png)
 	
 </details>
 
