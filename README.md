@@ -15,6 +15,8 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 ### Own [Assets](malders/tmpdemo/assets/own/) folder:
  [This](malders/tmpdemo/assets/own/) folder contains all the assets, made without any help. [RadicalMagic](https://github.com/RadicalMagic) also helped with this project, by contributing to ideas, and helping with the design ideas at the initial stages of the project.
 
+-------------------------------------------------
+
 ### Some Screenshots of the game :
 
 <details>
@@ -25,47 +27,71 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 
 ![MainMenu](screenshots/main_menu.png)
 
+-------------------------------------------------
+
 ***Timer Menu:***
 
 ![TimerMenu](screenshots/timer_interface.png)
+
+-------------------------------------------------
 
 ***Level 01:***
 
 ![Level01](screenshots/level1.png)
 
+-------------------------------------------------
+
 ***Level 01 Portal cannot be accessed without key:***
 
 ![Level01NoTransition](screenshots/no_transition_without_key.png)
+
+-------------------------------------------------
 
 ***Level 01 Portal:***
 
 ![Level01portal](screenshots/level1_portal.png)
 
+-------------------------------------------------
+
 ***Level 02:***
 
 ![Level02](screenshots/level2.png)
+
+-------------------------------------------------
 
 ***Death screen:***
 
 ![Dead](screenshots/dead.png)
 
+-------------------------------------------------
+
 ***Level 02 Portal:***
 
 ![Level02portal](screenshots/level2_portal.png)
+
+-------------------------------------------------
 
 ***Level 03:***
 
 ![Level03](screenshots/level3.png)
 
+-------------------------------------------------
+
 ***End Screen:***
 
 ![EndScreen](screenshots/end_screen.png)
-	
+
+-------------------------------------------------
+
 </details>
 
 ### A Video showing the gameplay of the game.
 
 A Small Screen-Recording of the gameplay :
+
+[Video Gift]()
+
+-------------------------------------------------
 
 ### In Game controls :
 `W` key/ `Up Arrow` key/ `Spacebar` = Up
