@@ -17,10 +17,10 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 
 ### Some Screenshots of the game :
 
-<screenshots>
-
-	<summary>Click to expand and View Screenshots!</summary>
-
+<details>
+	
+<summary>Click to expand and View Screenshots!</summary></screenshots>
+	
 	Main Menu :
 	![MainMenu](screenshots/main_menu.png)
 	
@@ -51,7 +51,7 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 	End Screen:
 	![EndScreen](screenshots/end_screen.png)
 	
-</screenshots>
+</details>
 
 ### A Video showing the gameplay of the game.
 
