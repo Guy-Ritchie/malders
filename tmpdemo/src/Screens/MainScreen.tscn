@@ -1,0 +1,41 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://assets/own/gradient-bg.png" type="Texture" id=1]
+[ext_resource path="res://src/UserInterface/Title.tscn" type="PackedScene" id=2]
+[ext_resource path="res://src/UserInterface/QuitButton.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/UserInterface/ChangeSceneButton.tscn" type="PackedScene" id=4]
+[ext_resource path="res://assets/ui_theme.tres" type="Theme" id=5]
+
+[node name="MainScreen" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource( 5 )
+
+[node name="Background" type="TextureRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource( 1 )
+expand = true
+stretch_mode = 2
+
+[node name="Title" parent="." instance=ExtResource( 2 )]
+margin_left = -129.0
+margin_top = 133.0
+margin_right = 129.0
+margin_bottom = 174.0
+text = "2D-Platformer Game"
+
+[node name="Menu" type="VBoxContainer" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -144.0
+margin_top = -62.0
+margin_right = 144.0
+margin_bottom = 66.0
+
+[node name="PlayButton" parent="Menu" instance=ExtResource( 4 )]
+next_scene_path = "res://src/UserInterface/TimerInterface.tscn"
+
+[node name="QuitButton" parent="Menu" instance=ExtResource( 3 )]
