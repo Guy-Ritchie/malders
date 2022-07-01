@@ -89,7 +89,20 @@ Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane
 
 A Small Screen-Recording of the gameplay :
 
-[Video Gift]()
+
+
+https://user-images.githubusercontent.com/70623204/176822587-e4939a46-828c-4344-bacc-afa43593eea8.mp4  
+
+
+
+<br /><br />
+#### A link to the video: (incase you couldn't watch it here)  
+
+
+![Video showing Gameplay](screenshots/screen_recording/hd_gameplay.mp4)  <br /><br />
+ 
+
+
 
 -------------------------------------------------
 
