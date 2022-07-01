@@ -16,7 +16,7 @@ Download Godot game-engine first (Don't worry, it's not that big of a download; 
 
 Navigate to `malders/tmpdemo/src/Screens/MainScreen.tscn` on the FileSystem pane on the left. Double click that scene, to open it. Now press `F6` to play the current scene. Congrats, you can now play the game.
 
-** Note: ** I indeed plan on making a single executable file, which can be downloaded straight-away to play the game directly, but it won't be happening any sooner. So, until then, kindly put-up with this, and try the game out, as described above.
+**Note:** I indeed plan on making a single executable file, which can be downloaded straight-away to play the game directly, but it won't be happening any sooner. So, until then, kindly put-up with this, and try the game out, as described above.
 
 ### Own [Assets](malders/tmpdemo/assets/own/) folder:
  [This](malders/tmpdemo/assets/own/) folder contains all the assets, made without any help. [RadicalMagic](https://github.com/RadicalMagic) also helped with this project, by contributing to ideas, and helping with the design ideas at the initial stages of the project.
