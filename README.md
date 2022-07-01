@@ -1,5 +1,7 @@
 #	Our implementation of a 2D Platformer Game, with the [Godot](https://godotengine.org) an open-source game-engine.
 
+> *This project was done by me ( [Original Account](https://github.com/Sreejith27/) ) and [my Friend](https://github.com/RadicalMagic)*
+
 The final part of the code, or all the game code, scenes, assets are available in the main branch. If you want to check the final state of the project, use the files from the `main` branch.
 
 ## [tmpdemo](malders/tmpdemo)
